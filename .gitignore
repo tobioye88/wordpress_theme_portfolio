@@ -1,0 +1,6 @@
+# ignore everything in the assets/css folder except the *.min.css files
+/assets/css/*
+!/assets/css/bootstrap.min.css
+# ignore everything in the assets/js folder except the *.min.js files
+/assets/js/*
+!/assets/js/bootstrap.min.js
